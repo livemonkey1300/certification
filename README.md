@@ -36,3 +36,17 @@ Certification Note Personal
 ### Max Number of persitend disk that can be attached 
 - 16 on shared-core 
 - 128 on other instance 
+
+# Cloud Engine
+## Notes
+
+Use metadata to work , have a startup script and end script 
+commonly used to gater instance metadata and migrate instance 
+can alos be use to snapshot data and put it on a diffrent vm 
+
+## Snapshot disk
+
+not visible in s3 bucket 
+is incremental 
+doesn't run on local ssd only cloud storage
+manage by snapshot services

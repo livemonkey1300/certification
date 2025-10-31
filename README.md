@@ -53,3 +53,16 @@ manage by snapshot services
 can be schedualed.
 
 Disk cannot be shrink in the cloud
+
+
+
+# Google cloud core - Identity - IAM
+
+Main role orginazation admin has allo roles
+project creator roles witch allow to create role over project can be applied to org level 
+
+the responsablity of the og admin are 
+define iam policy 
+determine the structure of the hierachy 
+delegate rources per team an individual 
+org admin don't have permission over folder and resource they have to assigne it to themself

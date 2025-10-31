@@ -50,3 +50,6 @@ not visible in s3 bucket
 is incremental 
 doesn't run on local ssd only cloud storage
 manage by snapshot services
+can be schedualed.
+
+Disk cannot be shrink in the cloud

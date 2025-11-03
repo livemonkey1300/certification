@@ -69,3 +69,7 @@ org admin don't have permission over folder and resource they have to assigne it
 
 folder can be use to segregate project 
 cannot use iam to create user and group
+
+
+IAM policy deny pass before allowed policies
+google cloud sync can sync with ldap resourced and policies 

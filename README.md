@@ -66,3 +66,5 @@ define iam policy
 determine the structure of the hierachy 
 delegate rources per team an individual 
 org admin don't have permission over folder and resource they have to assigne it to themself
+
+folder can be use to segregate project 
